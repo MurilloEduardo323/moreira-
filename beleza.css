@@ -1,0 +1,35 @@
+form{position: relative;
+    top: 100px;
+    left: 520px;
+}
+img{
+    position: relative;
+    bottom: 35px;
+    border-radius: 30px;
+    left: 28px;
+    
+}
+header{
+    background-color: rgba(40, 126, 6, 0.884);
+    bottom: 300px;
+    border-radius: 30px;
+    
+}
+body{
+    background-image: url(plano\ de\ fundo.jpg);
+    background-repeat: no-repeat;
+    background-position: center  center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.fundo{
+    background-color: rgba(54, 133, 17, 0.774);
+    width: 1340px;
+    height: 280px;
+    border-radius: 30px;
+}
+
+h1{
+    left: 50px;
+}
